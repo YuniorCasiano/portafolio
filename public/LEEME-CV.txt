@@ -1,0 +1,2 @@
+Coloca aquí tu CV con el nombre exacto: cv-angel-casiano.pdf
+El botón "Descargar CV" de la página apunta a /cv-angel-casiano.pdf
